@@ -18,3 +18,5 @@ A fully autonomous voice agent engineered to handle end-to-end telemedicine appo
 * `templates/` – Twilio Markup Language (TwiML) XML templates for telephony interaction
 
 ## Deployment (AWS)
+
+## Brief Architectural Overview: https://www.mermaidchart.com/raw/362708c3-43eb-4e58-92ad-cc988ae000ff?theme=light&version=v0.1&format=svg
