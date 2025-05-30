@@ -19,4 +19,4 @@ A fully autonomous voice agent engineered to handle end-to-end telemedicine appo
 
 ## DISCLAIMER
 
-This document presents a high-level implementation and architectural overview excerpted from a live, enterprise-grade project. Code snippets and design components included herein are illustrative and do not represent the complete source code or full system architecture. Confidentiality and privacy considerations have been strictly observed to ensure no proprietary or sensitive information is disclosed.
+This document presents a high-level implementation and architectural overview excerpted from a live, enterprise-grade project. Code snippets and design components included herein do not represent the complete source code or full system architecture. Confidentiality and privacy considerations have been strictly observed to ensure no proprietary or sensitive information is disclosed.
